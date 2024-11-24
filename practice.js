@@ -89,3 +89,5 @@ function pat(row, col){
     }
 }
 pat(5, 5);
+
+//I will learn further things such as async and etc and make my lang better in learning
